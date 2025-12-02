@@ -1,5 +1,3 @@
-"""AoC 1, 2025: first."""
-
 class Rotation:
     def __init__(self, direction: str, amount: int):
         self.direction = direction
