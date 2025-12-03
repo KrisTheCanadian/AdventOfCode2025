@@ -8,16 +8,16 @@ def parse_input(filename: str) -> Any:
     return lines
 
 
-def part1(data: Any) -> Any:
+def part1(data: Any) -> int:
     """Solve Part 1 of the puzzle."""
     # TODO: Implement Part 1 solution logic
-    return None
+    return 0
 
 
-def part2(data: Any) -> Any:
+def part2(data: Any) -> int:
     """Solve Part 2 of the puzzle."""
     # TODO: Implement Part 2 solution logic
-    return None
+    return 0
 
 
 if __name__ == "__main__":
